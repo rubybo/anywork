@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f784516-3980-49f2-be3a-8290001741ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/root/web/static/mainui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/root/web/templates/web/index.html" afterDir="false" />
+    <list default="true" id="5f784516-3980-49f2-be3a-8290001741ff" name="Changes" comment="Add django files/ create templates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/root/web/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/web/templates/web/lending.html" beforeDir="false" afterPath="$PROJECT_DIR$/root/web/templates/web/lending.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/web/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/root/web/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/root/web/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/root/web/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726867119346</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add django files/ create templates">
+      <option name="closed" value="true" />
+      <created>1732478705932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732478705932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add django files/ create templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add django files/ create templates" />
   </component>
 </project>

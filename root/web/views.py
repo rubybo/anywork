@@ -7,3 +7,10 @@ from django.views.generic import TemplateView
 
 class WebLending(TemplateView):
     template_name = 'web/index.html'
+
+
+class WebMobile(TemplateView):
+    template_name = 'web/mobileweb.html'
+
+
+# расспредилить всё логику

@@ -1,1 +1,1 @@
-from django.urls import pathfrom .views import WebLendingurlpatterns = [  path('', WebLending.as_view()),]
+from django.urls import pathfrom .views import WebLending, WebMobileurlpatterns = [  path('', WebLending.as_view()),  path('mobile/', WebMobile.as_view()),]
