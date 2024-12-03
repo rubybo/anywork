@@ -13,4 +13,7 @@ class WebMobile(TemplateView):
     template_name = 'web/mobileweb.html'
 
 
+
+
+
 # расспредилить всё логику
