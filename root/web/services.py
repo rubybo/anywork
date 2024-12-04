@@ -1,0 +1,1 @@
+# from django.shortcuts import render## from .models import Feedback# def get_info(request):#      email = request.GET('email')#      return Feedback.objects.create(email = email)

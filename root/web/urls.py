@@ -1,1 +1,1 @@
-from django.urls import pathfrom .views import WebLending, WebMobileurlpatterns = [  path('', WebLending.as_view()),  path('mobile/', WebMobile.as_view()),]
+from django.urls import pathfrom .views import WebLending, WebMobile, FeedbackOrderurlpatterns = [  path('', WebLending.as_view()),  path('mobile/', WebMobile.as_view(), name='mobile'),  path('feedback/', FeedbackOrder.as_view(), name='email')]
