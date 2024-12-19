@@ -27,6 +27,12 @@ class FeedbackOrder(CreateView):
     success_url = '/mobile'
 
 
+# class
+# class LoginView(TemplateView):
+#     template_name = 'web/login.html'
+
+
+
 
 
 # расспредилить всё логику
